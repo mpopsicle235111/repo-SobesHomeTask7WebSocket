@@ -1,4 +1,3 @@
-//
 //  ViewController.swift
 //  SobesHomeTask7WebSocket
 //
